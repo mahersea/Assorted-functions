@@ -1,2 +1,2 @@
-# common functions for code-challenges
-Code Challenge Solutions 
+# Assorted Functions
+Functions to solve a variety of odd problems
