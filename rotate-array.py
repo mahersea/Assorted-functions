@@ -1,3 +1,5 @@
+#rotate array
+
 def rotateImage(a):
     rotated90 = zip(*a[::-1])
     return rotated90

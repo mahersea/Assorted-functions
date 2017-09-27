@@ -1,4 +1,4 @@
-
+# return the second element of first duplicate in a list
 
 def nextDuplicates(a):
     alreadyAdded = False

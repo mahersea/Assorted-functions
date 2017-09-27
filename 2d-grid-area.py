@@ -1,3 +1,5 @@
+# area of elements in a 2d grid
+
 def shapeArea(n):
     total = 1
     for i in range(1,n+1):

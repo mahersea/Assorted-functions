@@ -1,3 +1,5 @@
+# sort list and insert missing values to make the list consecutive
+
 def makeArrayConsecutive2(statues):
     statsort = sorted(statues)
     newstats = list()

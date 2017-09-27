@@ -1,3 +1,5 @@
+#return largest product of adjacent element products
+
 def adjacentElementsProduct(inputArray):
     products = list()
     for i in range(0,len(inputArray)-1):
