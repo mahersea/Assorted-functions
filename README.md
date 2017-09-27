@@ -1,2 +1,2 @@
-# code-challenges
-Code Challenge Solutions
+# common functions for code-challenges
+Code Challenge Solutions 
